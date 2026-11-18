@@ -22,7 +22,7 @@ const countries = [
     },
     {
         name: "Ghana",
-        population: 32_000_000,
+        population: 58_000_000,
         capital: "Accra",
         president: "J.D.M"
     },
